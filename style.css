@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+/*<!DOCTYPE html>
     <html>
     <link type="text/css" rel="stylesheet" href="style.css"/>
 
@@ -8,7 +8,7 @@
         <!DOCTYPE html>
 <html>
 <head>
-<style>
+<style>*/
 ul {
     list-style-type: none;
     margin: 0;
@@ -58,4 +58,13 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-      
+
+
+.column_one{
+    -webkit-column-count: 3;
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 40px;
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+} 
