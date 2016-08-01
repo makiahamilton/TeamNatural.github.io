@@ -58,13 +58,10 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
-
-.column_one{
-    -webkit-column-count: 3;
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-    -webkit-column-gap: 40px;
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
-} 
+br{
+    line-height: 200%
+}
+.row{
+    border-style: solid;
+    border-color: black;
+}
