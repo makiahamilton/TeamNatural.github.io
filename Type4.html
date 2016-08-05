@@ -3,6 +3,8 @@
     <head>
         <title>Type 4 Hair</title>
         <link rel="icon" type="image/gif/png" href="http://www.clipartkid.com/images/85/natural-black-hair-clipart-clipart-panda-free-clipart-images-kcjIhC-clipart.jpg"/>
+        <link href="https://www.googleapis.com/youtube/v3/videos?id=7lCDEYXw3mM&key=AIzaSyAeGqYzf380Ycd8jU7AunL6GuX1dmT53cE
+        &part=snippet,contentDetails,statistics,status">
         <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
         <link type="text/css" rel="stylesheet" href="Type4.css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -25,8 +27,8 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-
-      <a class="navbar-brand" href="home.html"><font face = "Open Sans Condensed" size = "5">Team Natural</font></a>
+<!-- 
+      <a class="navbar-brand" href="home.html"><font face = "Open Sans Condensed" size = "5">Team Natural</font></a> -->
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -37,9 +39,9 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hair Types<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">3A</a></li>
-            <li><a href="#">3B</a></li>
-            <li><a href="#">3C</a></li>
+            <li><a href="Type3.html">3A</a></li>
+            <li><a href="Type3.html">3B</a></li>
+            <li><a href="Type3.html">3C</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="Type4.html">4A</a></li>
             <li><a href="Type4.html">4B</a></li>
@@ -57,6 +59,10 @@
             <li><a href="crochet_braids.html">Crochet Braids</a></li>
           </ul>
         </li>
+      </ul>
+
+        <ul class="nav navbar-nav"> 
+        <li><a href="heat_styling.html">Heat Styling</a></li>
       </ul>
 
       <ul class="nav navbar-nav"> 
@@ -180,6 +186,7 @@
 
            <code> &nbsp </code>
         <center>  <button type="button" class="btn btn-primary">Find out your hair type</button></center>
+<<<<<<< HEAD
         </font> 
         <font face = "Open Sans Condensed" size="5">     
         <div class="container">
@@ -198,6 +205,41 @@
 
         </script>
     </body>
+=======
+</font> 
+<div class="video">
+<code> &nbsp </code>
+<center><iframe id="existing-iframe-example"
+        width="640" height="360"
+        src="https://www.youtube.com/embed/mOklOLQBoqA"
+        frameborder="0"
+        style="border: solid 4px #37474F"
+></iframe></center>
+
+<script type="text/javascript">
+  var tag = document.createElement('script');
+  tag.id = 'iframe-demo';
+  tag.src = 'https://www.youtube.com/iframe_api';
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  var player;
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('existing-iframe-example', {
+        events: {
+          'onReady': onPlayerReady,
+          'onStateChange': onPlayerStateChange
+        }
+    });
+  }
+  function onPlayerReady(event) {
+    document.getElementById('existing-iframe-example').style.borderColor = '#FF6D00';
+  }
+
+</script>
+</div>
+   </body>
+>>>>>>> f5c965b7a178e0f8fd89c5878b56a4c4ec9d4c2c
 </html>
 
 
