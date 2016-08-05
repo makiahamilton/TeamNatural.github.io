@@ -10,6 +10,10 @@ h1 {
 h2{
 	text-align: center;
 }
+
+/*h4{
+	text-align: center;
+}*/
 .story {
 	background-color: #c2d6d6;
 	padding: 10px;
@@ -103,7 +107,14 @@ figcaption {
 	 background-color: #000033;
 	 text-align: center;
 }
-
-iframe{
-	text-align: center;
+.purple_text{
+	color: #cccccc;
 }
+
+/*iframe{
+	text-align: center;
+}*/
+/*.videos{
+	float:right;
+	margin-left:10px;
+}*/
