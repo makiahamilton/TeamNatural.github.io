@@ -100,4 +100,10 @@ a{
     margin:auto;
 }*/
 
-
+.purple_text{
+    color: #cccccc;
+}
+.videos{
+    float:right;
+    margin-left:10px;
+}
