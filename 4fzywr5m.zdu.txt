@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   Type3.css
+#	modified:   Type3.html
+#	modified:   Type4.html
+#	new file:   hairimages/4a-hair.jpg
+#	new file:   hairimages/4acurls.jpg
+#	new file:   hairimages/4b-hair.jpg
+#	new file:   hairimages/4bcurls.jpg
+#	new file:   hairimages/4bcurlyhair.png
+#	new file:   hairimages/4c-hair.jpg
+#	new file:   hairimages/4chair.png
+#	new file:   hairimages/naturalhairfeature.jpg
+#	new file:   hairimages/type4c-curls.jpg
+#
+
