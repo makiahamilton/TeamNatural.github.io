@@ -10,18 +10,14 @@ h1 {
 h2{
 	text-align: center;
 }
-<<<<<<< HEAD
 
 /*h4{
 	text-align: center;
 }*/
-.story {
-=======
 p{
 	text-align: center;
 }
 /*.story {
->>>>>>> 1559e6aca3f219f9bcde8c759189e77237cf750d
 	background-color: #c2d6d6;
 	padding: 10px;
 	margin-top: 10px;
@@ -121,7 +117,7 @@ figcaption {
 /*iframe{
 	text-align: center;
 }*/
-/*.videos{
+.videos{
 	float:right;
 	margin-left:10px;
-}*/
+}
