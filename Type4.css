@@ -84,11 +84,15 @@ h4{
     padding: 9px 10px 11px;
     text-decoration: none;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-    color:  #cccccc;
+    color:  #000033;
 }
 .navbar{
      background-color: #000033;
      text-align: center;
+}
+
+a{
+    color:#000033;
 }
 
 
