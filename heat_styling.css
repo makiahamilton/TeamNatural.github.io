@@ -1,4 +1,5 @@
 h1{
+    color: #80002a;
     text-align: center;
 }
 h2{
@@ -9,6 +10,7 @@ h4{
 }
 p{
     text-align: center;
+
 }
 .carousel-control.left
 {
@@ -86,16 +88,16 @@ p{
     padding: 9px 10px 11px;
     text-decoration: none;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-    color:  #000033;
+ /*   color:  #cccccc;*/
 }
 .navbar{
      background-color: #000033;
      text-align: center;
 }
 
-a{
-    color:#000033;
-}
+/*a{
+    color:#cccccc;
+}*/
 /*.commentbtn{
     margin:auto;
 }*/
@@ -116,4 +118,11 @@ a{
 .flatiron{
     width: 110%;
     height:110%;
+}
+
+ul.b {
+    list-style-type: square;
+}
+.blacktext{
+        color:#000000;
 }
