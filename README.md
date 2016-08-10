@@ -17,3 +17,4 @@ Our main goals are to get the background page, and the hair typing and tips page
 ## Stretch Goals
 One of our stretch goals is to use Javascript or JQuery so that clicking one of the hair type links will take you to that section on their respective pages. 
 ###We also want to make the website mobile friendly in the future so that no matter where you are, you can access the information presented on the  page and have a pleaseant user experience.
+### We also would like to implement a data base so that when you enter a comment and click the submit button it will be stored and appear on the page.
